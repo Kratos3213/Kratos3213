@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! I’m a cybersecurity professional specializing in Red Teaming, Cloud Security, and AI Engineering. My focus is on simulating advanced adversaries to harden defenses, architecting secure cloud-native infrastructure, and developing AI systems with security and ethics at their core.....</h3>
+<h3 align="left">Hi 👋! I’m a cybersecurity professional specializing in Red Teaming, Cloud Security, AI Engineering and Web developer. My focus is on simulating advanced adversaries to harden defenses, architecting secure cloud-native infrastructure, and developing AI systems with security and ethics at their core.....</h3>
 
 ###
 
